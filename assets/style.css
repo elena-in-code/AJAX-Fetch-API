@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+body {
+    text-align: center;
+    background: lightgray;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+    list-style-type: none;
+    
+    background: rgba(250,250,250,0.5);
+    padding: 5px;
+    font-weight: 500;
+}
